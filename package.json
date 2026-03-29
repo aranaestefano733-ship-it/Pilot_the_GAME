@@ -1,0 +1,20 @@
+{
+  "name": "pilot_the_game",
+  "version": "1.0.0",
+  "description": "Desarrollo de priemra version de propuesta para MassCode_GAME",
+  "homepage": "https://github.com/aranaestefano733-ship-it/Pilot_the_GAME#readme",
+  "bugs": {
+    "url": "https://github.com/aranaestefano733-ship-it/Pilot_the_GAME/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aranaestefano733-ship-it/Pilot_the_GAME.git"
+  },
+  "license": "ISC",
+  "author": "MassCamelo",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
